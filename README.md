@@ -22,5 +22,5 @@ Olá! Esse é um sistema bancário que você pode fazer depositos, saques e visu
 * Copie a [URL]() do repositório
 * Digite `git clone <URL copiada>` e pressione `enter`
 
-### **3. Execute o programa pelo terminal:**
+### **3. Execute o programa pelo terminal**
 
